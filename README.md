@@ -14,7 +14,7 @@ It includes:
 
 #Files
 - 'Superstore_final_dataset'
-- Dashboard_screenshot.png
+https://github.com/tshimimaleka/Excel-Sales-Dashboard/blob/7abbd47f3d41b1bab8cbafea339956e0f401e423/Screenshot%202025-10-29%20002543.png
 
 #Feedback
 Feel free to share your thoughts!
